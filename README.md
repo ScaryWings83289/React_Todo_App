@@ -1,3 +1,7 @@
+This is a Simple Todo list where you can add a new Todo & delete an existing one's.
+
+You can view the demo on [Todo App](https://divyankar-todolist-app.netlify.app/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
